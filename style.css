@@ -1,0 +1,55 @@
+ .text{
+     color:red;
+     font-family:sans-serif ;
+   }  
+   
+   body {
+   font-family:cursive;
+   color:#777777;
+   line-height:26px;
+   font-size:20px ;
+   }
+    
+    .half-width{
+    width: 50%;
+    float: left;
+    }
+    
+    .full-width{
+     width:100%;
+     float:left ;}
+
+    .side-images{
+    width: 10%;
+    padding-left: 25%;
+    }
+ 
+    .primary-button{
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+    .tet{text-decoration:none ;
+        background-color:red;
+        border-radius:20px ;
+        padding:10px 10px 10px 10px ;
+        font-style:red ;
+        width: 50%}
+
+
+ h1 { font-size: 1.8em;}
+ 
+ .container{padding-left:5%; display:inline-block
+  ; }
+ 
+  .experiences{padding:30px ;margin:30px ;background-color:rgb(238,251,255);
+  border-radius:20px ;}
+  
+  .experience-item{padding:20px; border-radius:1px solid rgbe(137,130,242,.2) ;}
+
+  .purple-color{font-size:20 ;font-family:sans-serif ;}
+
+}
+
